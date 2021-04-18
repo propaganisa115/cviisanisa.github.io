@@ -245,7 +245,7 @@ database
           <img src="https://i.ibb.co/3hyZHXQ/cv.png" alt=""/>
         </div>
         <div class="project-title">
-          <a href="">  <h2>CV website</h2></a>
+          <a href="https://cviisanisa.herokuapp.com/">  <h2>CV website</h2></a>
         </div>
         <div class="project-description">
           <p>Merupakan sebuah website berbasis PHP dan laravel yang berisi curriculum vitae. Berisi informasi tentang kualifikasi saya sebagai seorang backend developer. Informasi yang disebutkan dalam website tersebut mencakup data pribadi, latar belakang pendidikan, prestasi, keterampilan, pengalaman profesional, dan lain-lain </p>
@@ -256,7 +256,7 @@ database
           <img src="https://i.ibb.co/4Shtwfv/ecommerce.png" alt=""/>
         </div>
         <div class="project-title">
-          <a href="">  <h2>Mini ecommerce website</h2></a>
+          <a href="https://ecommercekece.herokuapp.com/">  <h2>Mini ecommerce website</h2></a>
         </div>
         <div class="project-description">
           <p>Merupakan sebuah website berbasis PHP dan laravel hasil pembelajaran dari course laravel. Pada website tersebut terdapat modul autentikasi, shop, cart, kirim detail cart ke email dan lain lain. </p>
