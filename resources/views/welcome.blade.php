@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Iis Anisa - Backend Developer | Resume & Portofolio</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
 <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
-<link rel="stylesheet" href="{{asset('CSS/bootstrap-social.css')}}">
+<link rel="stylesheet" href="{{asset('css/bootstrap-social.css')}}">
 <link rel="stylesheet" href="{{asset('css/style.css')}}">
 
 </head>
